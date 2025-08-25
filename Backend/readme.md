@@ -3,11 +3,11 @@
 The Stock Management System is a web app that helps track and manage inventory. Its backend provides a RESTful API to handle stock operations like managing brands, purchases, and items. Users can add, update, delete, and search stock, as well as filter items by category or supplier. The system also has user authentication with role-based permissions.
 
 ## Tech/framework used
--Express.js
--MongoDB
--Token-based Authentication
-Dotenv
-CRUD Operations
+**Express.js**
+**MongoDB**
+**Token-based Authentication**
+**Dotenv**
+**CRUD Operations**
 
 
 ## Getting Started
@@ -63,4 +63,5 @@ _Below is an example of how you can instruct your audience on installing and set
 To use the application, you can log in with the following email and password <br>
 email: admin@site.com <br>
 password: aA?123456 <br>
+
 
