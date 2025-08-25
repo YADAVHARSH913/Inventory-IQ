@@ -30,12 +30,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-3. Logs File
-   ```sh
-   You can write:
-   mkdir logs
-   ```
-4. The project is ready, you can start using it now.
+3. The project is ready, you can start using it now.
    ```sh
    You can run:
    nodemon
@@ -43,9 +38,8 @@ This is an example of how to list things you need to use the software and how to
 After that you get this O/P on Terminal: 
 <img width="920" height="215" alt="image" src="https://github.com/user-attachments/assets/74172466-3f25-44ab-86c1-12a98475c594" />
 
+4.Now move to the Frontend Directory after running the backend and connected with DataBase..
 
-
-Now move to the Frontend Directory after running the backend and connected with DataBase..
 
 
 
