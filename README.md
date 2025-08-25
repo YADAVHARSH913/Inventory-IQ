@@ -36,20 +36,20 @@ With role-based authentication and authorization, it ensures secure collaboratio
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/stock-management-system.git
-cd stock-management-system
+git clone https://github.com/YADAVHARSH/INVENTORY-IQ
+cd INVENTORY-IQ
 ```
 
 ### 2️⃣ Setup Backend
 ```bash
-cd backend
+cd Backend
 npm install
-npm start
+nodemon
 ```
 
 ### 3️⃣ Setup Frontend
 ```bash
-cd frontend
+cd Frontend
 npm install
 npm start
 ```
@@ -63,11 +63,6 @@ Interactive API documentation is available via **Swagger/Redoc** once the backen
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
