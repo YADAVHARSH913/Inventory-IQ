@@ -36,7 +36,7 @@ With role-based authentication and authorization, it ensures secure collaboratio
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YADAVHARSH/INVENTORY-IQ
+git clone [https://github.com/YADAVHARSH/INVENTORY-IQ](https://github.com/YADAVHARSH913/Inventory-IQ)
 cd INVENTORY-IQ
 ```
 
