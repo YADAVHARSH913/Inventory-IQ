@@ -24,7 +24,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/YADAVHARSH913/INVENTORY-IQ/Backend
+   git clone https://github.com/YADAVHARSH913/Inventory-IQ/tree/main/Backend
    ```
 2. Install NPM packages
    ```sh
@@ -46,6 +46,7 @@ After that you get this O/P on Terminal:
 
 
 Now move to the Frontend Directory after running the backend and connected with DataBase..
+
 
 
 
