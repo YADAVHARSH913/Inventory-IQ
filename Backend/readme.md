@@ -11,10 +11,7 @@ Express.js, MongoDB, Token-based Authentication, Dotenv, CRUD Operations.
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
+### Prerequisites:
 - npm
   ```sh
   npm install npm@latest -g
@@ -39,6 +36,7 @@ After that you get this O/P on Terminal:
 <img width="920" height="215" alt="image" src="https://github.com/user-attachments/assets/74172466-3f25-44ab-86c1-12a98475c594" />
 
 4.Now move to the Frontend Directory after running the backend and connected with DataBase..
+
 
 
 
