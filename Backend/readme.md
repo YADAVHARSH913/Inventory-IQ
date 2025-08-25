@@ -22,8 +22,6 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Clone the repo
    ```sh
    git clone https://github.com/esmaaksoy/Stock-Management-System-Backend
@@ -32,34 +30,20 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-3. Create .env file in home directory.
-   ```sh
-   HOST=localhost
-   PORT=8000
-   MONGODB=ENTER YOUR Database adres or local: mongodb://127.0.0.1:27017/stockApi
-   SECRET_KEY=ENTER YOUR random letters and number, for example: jsl78dd9ff6f6s9jkd89Kkfnfd
-   ACCESS_KEY=ENTER YOUR random letters and number, for example: jsl78dd9ff6f6s9jkd89Kkfnfd
-   REFRESH_KEY=ENTER YOUR random letters and number, for example: jsl78dd9ff6f6s9jkd89Kkfnfd
-   PAGE_SIZE=25
-
-   ```
-4. Logs File
+3. Logs File
    ```sh
    You can write:
    mkdir logs
    ```
-5. The project is ready, you can start using it now.
+4. The project is ready, you can start using it now.
    ```sh
    You can run:
    nodemon
    ```
-
-### IMPORTANT NOTES ! 
-
-To use the application, you can log in with the following email and password <br>
-email: admin@site.com <br>
-password: aA?123456 <br>
+After that you get this O/P on Terminal: 
+<img width="920" height="215" alt="image" src="https://github.com/user-attachments/assets/74172466-3f25-44ab-86c1-12a98475c594" />
 
 
 
+Now move to the Frontend Directory after running the backend and connected with DataBase..
 
